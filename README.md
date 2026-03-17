@@ -1,6 +1,8 @@
 Help keep the server running!
- 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal&style=for-the-badge)](https://www.paypal.com/ncp/payment/RUJTVLNUCP3UU)
+PumpFun (donate to me on PumpFun upper-up account): dXQ3PScgaLCvpf9uZLFaqrrSCXux7fiki6ep5HeH1iK
+
+Monero: 451CjP6mgu12yvmDLxLduYYw5Py3Nnb91RwoRYCnhMwhGKM5hxYSaAWapq7CdRQz3qRJbUqqrnYBzW7L4aUt7nhbAYGmLSX
+
  
 Thank you for your support.
 
@@ -382,7 +384,3 @@ OSINT research product. All findings based on public records. Source data cited 
 
 ## Donate
 Official PumpFun (TBOTEProject PumpFun Coin): https://pump.fun/coin/7h93HKTvc5ro9oJCWdev9ae4X3GoRsNjmvnav11Lpump
-
-PumpFun (donate to me on PumpFun upper-up account): dXQ3PScgaLCvpf9uZLFaqrrSCXux7fiki6ep5HeH1iK
-
-Monero: 451CjP6mgu12yvmDLxLduYYw5Py3Nnb91RwoRYCnhMwhGKM5hxYSaAWapq7CdRQz3qRJbUqqrnYBzW7L4aUt7nhbAYGmLSX
